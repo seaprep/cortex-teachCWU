@@ -22,6 +22,7 @@ void testAutoDrive(){
   // lets drive forward for a set speed using PID and will drive forever
   // unless asked to stop.....
   driveRobot(80);
+  delay(20000);
 
 
 
